@@ -23,18 +23,4 @@ Developer and fourth-year B.Tech Artificial Intelligence student.
 - Education: B.Tech AI, 2023-2027
 - Contact: siddarthkoppurapu2006@gmail.com, +91-9866153816
 
-## Run Locally
 
-```bash
-npm install
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
-
-Deploy the generated `dist/` folder to Netlify, Vercel, or another static
-hosting provider.
